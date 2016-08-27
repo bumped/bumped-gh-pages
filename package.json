@@ -1,0 +1,46 @@
+{
+  "name": "bumped-gh-pages",
+  "description": "Publishing files on GitHub Pages.",
+  "homepage": "https://github.com/bumped/bumped-gh-pages",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Bumped",
+    "url": "https://github.com/bumped"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumped/bumped-gh-pages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bumped/bumped-gh-pages/issues"
+  },
+  "keywords": [
+    "bumped",
+    "publish",
+    "gh-pages",
+    "GitHub",
+    "Pages"
+  ],
+  "dependencies": {
+    "gh-pages": "~0.11.0",
+    "lodash.omit": "~4.5.0"
+  },
+  "devDependencies": {
+    "coffee-script": "latest",
+    "coveralls": "latest",
+    "git-dirty": "latest",
+    "nyc": "latest"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls",
+    "lint": "",
+    "pretest": "npm run lint",
+    "test": "nyc mocha"
+  },
+  "license": "MIT"
+}
