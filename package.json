@@ -35,12 +35,5 @@
   "engines": {
     "node": ">= 0.10"
   },
-  "scripts": {
-    "clean": "rm -rf node_modules",
-    "coveralls": "nyc report --reporter=text-lcov | coveralls",
-    "lint": "",
-    "pretest": "npm run lint",
-    "test": "nyc mocha"
-  },
   "license": "MIT"
 }
