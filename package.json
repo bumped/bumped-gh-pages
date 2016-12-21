@@ -2,7 +2,7 @@
   "name": "bumped-gh-pages",
   "description": "Publishing files on GitHub Pages.",
   "homepage": "https://github.com/bumped/bumped-gh-pages",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "author": {
     "name": "Bumped",
