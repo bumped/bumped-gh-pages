@@ -23,17 +23,17 @@
     "publish"
   ],
   "dependencies": {
+    "coffee-script": "~1.12.0",
     "gh-pages": "~0.12.0",
     "lodash.omit": "~4.5.0"
   },
   "devDependencies": {
-    "coffee-script": "latest",
     "coveralls": "latest",
     "git-dirty": "latest",
     "nyc": "latest"
   },
   "engines": {
-    "node": ">= 0.10"
+    "node": ">= 4"
   },
   "license": "MIT"
 }
