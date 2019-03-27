@@ -2,7 +2,7 @@
   "name": "bumped-gh-pages",
   "description": "Publishing files on GitHub Pages.",
   "homepage": "https://github.com/bumped/bumped-gh-pages",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "index.js",
   "author": {
     "name": "Bumped",
@@ -15,16 +15,12 @@
   "bugs": {
     "url": "https://github.com/bumped/bumped-gh-pages/issues"
   },
-  "files": [
-    "lib",
-    "index.js"
-  ],
   "keywords": [
     "GitHub",
     "Pages",
     "bumped",
-    "plugin",
     "gh-pages",
+    "plugin",
     "publish"
   ],
   "dependencies": {
@@ -40,5 +36,9 @@
   "engines": {
     "node": ">= 4"
   },
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "license": "MIT"
 }
