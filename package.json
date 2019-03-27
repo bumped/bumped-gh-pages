@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/bumped/bumped-gh-pages/issues"
   },
+  "files": [
+    "lib",
+    "index.js"
+  ],
   "keywords": [
     "GitHub",
     "Pages",
