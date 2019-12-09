@@ -1,3 +1,12 @@
+## <small>0.1.3 (2019-12-09)</small>
+
+* build: update dependencies ([7092db0](https://github.com/bumped/bumped-gh-pages/commit/7092db0))
+* fix(package): update coffeescript to version 2.4.0 ([ded890e](https://github.com/bumped/bumped-gh-pages/commit/ded890e))
+* fix(package): update gh-pages to version 2.1.0 ([4b2ce2c](https://github.com/bumped/bumped-gh-pages/commit/4b2ce2c))
+* update travis builds ([39e8ae7](https://github.com/bumped/bumped-gh-pages/commit/39e8ae7))
+
+
+
 <a name="0.1.2"></a>
 ## 0.1.2 (2019-03-27)
 
