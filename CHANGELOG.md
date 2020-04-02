@@ -1,3 +1,11 @@
+## <small>0.1.4 (2020-04-02)</small>
+
+* build: update dependencies ([8c71f46](https://github.com/bumped/bumped-gh-pages/commit/8c71f46))
+* Bump gh-pages from 2.1.1 to 2.2.0 ([049c133](https://github.com/bumped/bumped-gh-pages/commit/049c133))
+* fix(package): update coffeescript to version 2.5.0 ([972af10](https://github.com/bumped/bumped-gh-pages/commit/972af10))
+
+
+
 ## <small>0.1.3 (2019-12-09)</small>
 
 * build: update dependencies ([7092db0](https://github.com/bumped/bumped-gh-pages/commit/7092db0))
