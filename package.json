@@ -24,7 +24,7 @@
     "publish"
   ],
   "dependencies": {
-    "coffeescript": "~2.5.0",
+    "coffeescript": "~2.5.1",
     "gh-pages": "~2.2.0",
     "lodash.omit": "~4.5.0"
   },
